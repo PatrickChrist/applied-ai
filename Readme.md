@@ -6,7 +6,7 @@ Open the notebook directly in Google Colab https://colab.research.google.com/git
 ## Music Generation with VAEs
 This Juypter Notebook shows how to train a VAE with Keras and Tensorflow to generate Music that sounds like Bob Marley.
 ### Usage
-Open the notebook directly in Google Colab https://colab.research.google.com/github/PatrickChrist/applied-ai/blob/main/music_generation_vae.ipynbor local.
+Open the notebook directly in Google Colab https://colab.research.google.com/github/PatrickChrist/applied-ai/blob/main/music_generation_vae.ipynb or local.
 ## Bonus: Predicting Covid19 from CT using 3DCNN
 This Juypter Notebook shows how to train a 3DCNN with Keras and Tensorflow to predict the Covid19.
 ### Usage
